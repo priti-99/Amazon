@@ -119,7 +119,7 @@
 
 /* Hero-section*/
 .hero-section{
-    background-image: url("./images/hero-image.jpg");
+    background-image: url("hero-image.jpg");
     height: 350px;
     background-size: cover;
 }
